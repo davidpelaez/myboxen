@@ -31,5 +31,23 @@ github "ruby",     "3.1.0"
 github "stdlib",   "3.0.0", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",     "1.0.0"
 
+github "mysql",  "1.0.0"
+github "firefox",  "1.0.0"
+github "imagemagick",  "1.0.0"
+github "skype",  "1.0.0"
+github "magican",  "1.0.0"
+github "chrome",  "1.0.0"
+github "transmission",  "1.0.0"
+github "sublime_text_2",  "1.0.0"
+github "arq",  "1.0.0"
+github "caffeine",  "1.0.0"
+github "colloquy",  "1.0.0"
+github "hub",  "1.0.0"
+github "phantomjs",  "1.0.0"
+github "spotify",  "1.0.0"
+github "vlc",  "1.0.0"
+github "wget",  "1.0.0"
+github "zsh",  "1.0.0"
+
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.

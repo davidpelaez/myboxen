@@ -62,15 +62,30 @@ node default {
   }
 
   # node versions
-  include nodejs::0-4
-  include nodejs::0-6
-  include nodejs::0-8
+  #include nodejs::0-8
+  include nodejs::0-10
 
   # default ruby versions
-  include ruby::1_8_7
-  include ruby::1_9_2
   include ruby::1_9_3
   include ruby::2_0_0
+
+  include mysql
+  include firefox
+  include imagemagick
+  include skype
+  include magican
+  include chrome
+  include transmission
+  include sublime_text_2
+  include arq
+  include caffeine
+  include colloquy
+  include hub
+  include phantomjs
+  include spotify
+  include vlc
+  include wget
+  include zsh
 
   # common, useful packages
   package {
