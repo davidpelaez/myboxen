@@ -16,7 +16,7 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: boxen/puppet-chrome
   specs:
-    chrome (1.0.0)
+    chrome (1.1.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-colloquy
@@ -31,7 +31,7 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: boxen/puppet-firefox
   specs:
-    firefox (1.0.0)
+    firefox (1.0.5)
 
 GITHUBTARBALL
   remote: boxen/puppet-gcc
@@ -56,17 +56,17 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: boxen/puppet-imagemagick
   specs:
-    imagemagick (1.0.0)
+    imagemagick (1.2.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-magican
   specs:
-    magican (1.0.0)
+    magican (1.0.1)
 
 GITHUBTARBALL
   remote: boxen/puppet-mysql
   specs:
-    mysql (1.0.0)
+    mysql (1.0.1)
 
 GITHUBTARBALL
   remote: boxen/puppet-nginx
@@ -76,12 +76,17 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: boxen/puppet-nodejs
   specs:
-    nodejs (1.0.0)
+    nodejs (1.1.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-nvm
   specs:
     nvm (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-osx
+  specs:
+    osx (1.0.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-phantomjs
@@ -96,7 +101,7 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: boxen/puppet-skype
   specs:
-    skype (1.0.0)
+    skype (1.0.2)
 
 GITHUBTARBALL
   remote: boxen/puppet-spotify
@@ -106,7 +111,7 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: boxen/puppet-sublime_text_2
   specs:
-    sublime_text_2 (1.0.0)
+    sublime_text_2 (1.1.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-sudo
@@ -129,6 +134,11 @@ GITHUBTARBALL
     wget (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-xquartz
+  specs:
+    xquartz (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-zsh
   specs:
     zsh (1.0.0)
@@ -147,31 +157,32 @@ DEPENDENCIES
   arq (= 1.0.0)
   boxen (= 1.2.0)
   caffeine (= 1.0.0)
-  chrome (= 1.0.0)
+  chrome (= 1.1.0)
   colloquy (= 1.0.0)
   dnsmasq (= 1.0.0)
-  firefox (= 1.0.0)
+  firefox (= 1.0.5)
   gcc (= 1.0.0)
   git (= 1.0.0)
   homebrew (= 1.1.2)
   hub (= 1.0.0)
-  hub (= 1.0.0)
-  imagemagick (= 1.0.0)
+  imagemagick (= 1.2.0)
   inifile (= 0.9.0)
-  magican (= 1.0.0)
-  mysql (= 1.0.0)
+  magican (= 1.0.1)
+  mysql (= 1.0.1)
   nginx (= 1.1.0)
-  nodejs (= 1.0.0)
+  nodejs (= 1.1.0)
   nvm (= 1.0.0)
+  osx (= 1.0.0)
   phantomjs (= 1.0.0)
   ruby (= 3.1.0)
-  skype (= 1.0.0)
+  skype (= 1.0.2)
   spotify (= 1.0.0)
   stdlib (= 3.0.0)
-  sublime_text_2 (= 1.0.0)
+  sublime_text_2 (= 1.1.0)
   sudo (= 1.0.0)
   transmission (= 1.0.0)
   vlc (= 1.0.0)
   wget (= 1.0.0)
+  xquartz (= 1.0.0)
   zsh (= 1.0.0)
 
