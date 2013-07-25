@@ -62,7 +62,7 @@ node default {
   }
 
   # node versions
-  #include nodejs::0-8
+  include nodejs::0-8
   include nodejs::0-10
 
   # default ruby versions
